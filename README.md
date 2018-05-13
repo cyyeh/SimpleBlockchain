@@ -1,6 +1,6 @@
 # Code your own blockchain using Golang
 
-Reference from tutorials from Coral Health on Medium!
+Reference from tutorials from [Coral Health on Medium](https://medium.com/@mycoralhealth)!
 
 ### Basic Blockchain
 
