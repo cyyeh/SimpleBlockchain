@@ -9,3 +9,10 @@ Reference from tutorials from [Coral Health on Medium](https://medium.com/@mycor
 3. Resolve tiebreakers when multiple nodes generate blocks
 4. View blockchain in browser
 5. Write new blocks
+
+### Networking
+
+1. Run a terminal to provide a block
+2. Fire up additional terminals and have them write blocks to the first terminal
+3. The first terminal broadcasts updated blocks to the new terminals
+
