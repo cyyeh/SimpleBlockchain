@@ -16,3 +16,9 @@ Reference from tutorials from [Coral Health on Medium](https://medium.com/@mycor
 2. Fire up additional terminals and have them write blocks to the first terminal
 3. The first terminal broadcasts updated blocks to the new terminals
 
+### Proof of Work Implementation
+
+1. Use Basic Blockchain as foundation
+2. Proof of Work Implementation
+
+### Proof of Stake Implementation
